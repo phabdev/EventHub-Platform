@@ -4,7 +4,7 @@ L'obiettivo è chiaro: eliminare il lavoro manuale per l'host e trasformare gli 
 
 ---
 
-## 🟢 Fase 1: Fondamenta & Efficienza (Alpha - In corso)
+## 🟢 Fase 1: Fondamenta & Efficienza (Alpha - In corso / Gennaio 2026)
 *Obiettivo: Ridurre a zero l'attrito operativo durante la serata.*
 
 - [x] **Real-time Engine:** Sincronizzazione istantanea Host/Monitor via Supabase.
@@ -16,7 +16,7 @@ L'obiettivo è chiaro: eliminare il lavoro manuale per l'host e trasformare gli 
 
 ---
 
-## 🟡 Fase 2: Crescita & Marketing (Beta - Q1 2024)
+## 🟡 Fase 2: Crescita & Marketing (Beta - Q1 2026)
 *Obiettivo: Portare almeno 5 nuovi clienti a settimana nel locale.*
 
 - [ ] **Referral System:** Generazione ticket d'invito tracciati per gli amici.
@@ -27,7 +27,7 @@ L'obiettivo è chiaro: eliminare il lavoro manuale per l'host e trasformare gli 
 
 ---
 
-## 🔴 Fase 3: Engagement Totale (V1.0 - Q2 2024)
+## 🔴 Fase 3: Engagement Totale (V1.0 - Q2 2026)
 *Obiettivo: Rendere l'esperienza imbattibile e scalare su più locali.*
 
 - [ ] **Quiz Master Module:** Modalità gioco a premi interattiva per serate morte.
@@ -42,4 +42,4 @@ L'obiettivo è chiaro: eliminare il lavoro manuale per l'host e trasformare gli 
 EventHub non è un software per il karaoke. È il **sistema operativo dell'intrattenimento locale**. Ogni interazione digitale deve generare un ritorno economico misurabile per il gestore.
 
 ---
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 23 Dicembre 2025*
