@@ -30,4 +30,4 @@ Consulta il file [ROADMAP.md](ROADMAP.md) per i dettagli sullo sviluppo.
 ## 🤝 Contatti & Alpha Test
 EventHub è attualmente in fase di **Alpha Test** con partner selezionati.
 
-[Website](https://www.phabdev.it) | [Mail](mailto:phabdev@gmail.com)
+[Info e contatti](https://www.phabdev.it/karaoke-info) | [Mail](mailto:phabdev@gmail.com)
