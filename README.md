@@ -1,51 +1,33 @@
 # EventHub 🚀 
-**Smetti di gestire il caos. Inizia a gestire l'evento.**
+**L'intrattenimento che genera profitto. Zero stress, +100% engagement.**
 
-EventHub è la soluzione SaaS per bar, pub e organizzatori di eventi che vogliono eliminare lo stress operativo e trasformare una serata normale in una macchina da soldi e contatti.
-
----
-
-## ⚡ Il Problema (The "Pain")
-I gestori perdono mediamente **60-90 minuti a serata** per:
-- Segnare richieste di canzoni su foglietti volanti.
-- Rispondere a clienti che chiedono "quando tocca a me?".
-- Cercare manualmente basi su YouTube.
-- Cercare di farsi taggare sui social senza successo.
-
-## 🛠 La Soluzione (The "ROI")
-EventHub automatizza tutto. **Risparmi 1 ora al giorno. Porti 5+ nuovi clienti a settimana.**
-
-| Funzione | Vantaggio Brutale |
-| :--- | :--- |
-| **Coda Live Digital** | I clienti si prenotano via QR. L'host accetta con uno swipe. |
-| **YouTube Sync** | Un click e la base è pronta. Zero perdite di tempo in ricerca. |
-| **Messaging Layer** | Dediche e messaggi live sul monitor. Engagement alle stelle. |
-| **Referral Virale** | Sistema di inviti tracciati: i tuoi clienti portano i loro amici. |
+EventHub è la piattaforma web-based progettata per trasformare le serate nei locali (karaoke, quiz, eventi live) in un'esperienza digitale fluida che fidelizza i clienti e ottimizza il lavoro dello staff.
 
 ---
 
-## ⚡ Performance & Affidabilità (The "Engine")
-Non vendiamo codice, vendiamo stabilità. L'architettura è progettata per ambienti ad alto stress (pub, club, eventi live):
+## ⚡ Perché EventHub?
+I gestori di locali perdono ore ogni settimana in compiti manuali e disorganizzati. EventHub centralizza tutto in un'unica dashboard accessibile da qualsiasi dispositivo.
 
-- **Zero Latency:** Sincronizzazione istantanea (sotto i 100ms) tra richieste utenti e monitor pubblico.
-- **Hardware Agnostic:** Gira su qualsiasi browser. Non richiede PC costosi o Smart TV di ultima generazione.
-- **Plug & Play:** Nessuna configurazione di rete, nessun database locale, nessuna installazione.
-- **Scalabilità:** Gestisce centinaia di richieste simultanee senza rallentamenti.
+- **Risparmio Operativo:** Automatizza code e richieste. Lo staff si concentra sul servizio, non sulla carta.
+- **Acquisizione Clienti:** Strumenti di referral integrati per trasformare il passaparola in dati certi.
+- **Engagement in Tempo Reale:** Trasforma i monitor del locale in un social wall interattivo.
+
+## 🛡️ Affidabilità Totale (The Engine)
+Progettato per funzionare in ambienti ad alto stress, senza necessità di configurazioni tecniche:
+- **Latenza Zero:** Sincronizzazione istantanea tra utenti e monitor pubblico.
+- **Cross-Platform:** Funziona su qualsiasi browser (Smart TV, Tablet, PC, Smartphone).
+- **Plug & Play:** Nessuna installazione hardware o software richiesta.
+- **Scalabilità Garantita:** Gestisce picchi di traffico simultaneo senza rallentamenti.
 
 ---
 
-## 📈 Roadmap (Cosa stiamo costruendo)
-- [x] **Core Karaoke:** Gestione code e ricerca rapida.
-- [x] **Live Ticker:** Messaggi e dediche in tempo reale sul footer.
-- [ ] **Quiz Master:** Trasforma il locale in un'arena di gioco (In sviluppo).
-- [ ] **AI Moderation:** Filtro automatico messaggi offensivi (Pianificato).
-- [ ] **Instagram Story Gen:** Condivisione automatica per scalare i social (Pianificato).
+## 📈 Roadmap & Vision
+Sviluppiamo costantemente nuove funzioni per massimizzare il ROI del locale.
+Consulta il file [ROADMAP.md](ROADMAP.md) per i dettagli sullo sviluppo.
 
 ---
 
 ## 🤝 Contatti & Alpha Test
-Il progetto è attualmente in **Alpha Privata**. 
-Sei un gestore di un locale o un organizzatore? 
-**Vieni a trovarci nell'era digitale.**
+EventHub è attualmente in fase di **Alpha Test** con partner selezionati.
 
 [Website](https://www.phabdev.it) | [Mail](mailto:phabdev@gmail.com)
