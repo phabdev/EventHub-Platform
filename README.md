@@ -46,4 +46,4 @@ Il progetto è attualmente in **Alpha Privata**.
 Sei un gestore di un locale o un organizzatore? 
 **Vieni a trovarci nell'era digitale.**
 
-[Link al tuo Sito/Portfolio] | [Tua Mail]
+[Website](https://www.phabdev.it) | [Mail](mailto:phabdev@gmail.com)
