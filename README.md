@@ -24,11 +24,13 @@ EventHub automatizza tutto. **Risparmi 1 ora al giorno. Porti 5+ nuovi clienti a
 
 ---
 
-## 💻 Tech Stack (No-Nonsense)
-Costruito per la massima velocità e affidabilità:
-- **Frontend:** Angular + Tailwind CSS (Interfaccia "a prova di pollice" sotto stress).
-- **Backend:** Supabase (Real-time engine per sincronizzazione istantanea Host/Monitor).
-- **Architecture:** 100% Web-based. Zero hardware dedicato. Funziona su qualsiasi Smart TV o PC.
+## ⚡ Performance & Affidabilità (The "Engine")
+Non vendiamo codice, vendiamo stabilità. L'architettura è progettata per ambienti ad alto stress (pub, club, eventi live):
+
+- **Zero Latency:** Sincronizzazione istantanea (sotto i 100ms) tra richieste utenti e monitor pubblico.
+- **Hardware Agnostic:** Gira su qualsiasi browser. Non richiede PC costosi o Smart TV di ultima generazione.
+- **Plug & Play:** Nessuna configurazione di rete, nessun database locale, nessuna installazione.
+- **Scalabilità:** Gestisce centinaia di richieste simultanee senza rallentamenti.
 
 ---
 
